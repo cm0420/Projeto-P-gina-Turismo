@@ -1,0 +1,28 @@
+body{
+    background-color: #CBCEA6;
+}
+#initial{
+    background-color: #081C09;
+    height: 93px;
+    color: #758C72;
+    text-align: center;
+    padding: 24px;
+    
+}
+#page{
+    box-sizing: border-box;
+    width: 552px;
+    background-color: #2B3920;
+    height: 808px;
+    margin: 105px auto;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    text-align: center;
+    margin: auto;
+
+}
