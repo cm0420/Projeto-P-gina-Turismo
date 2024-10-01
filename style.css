@@ -21,9 +21,12 @@ body{
     color: aliceblue;
     border-radius: 12px;
 }
+#about{
+    padding-bottom: 75px;
+}
 h2{
     text-align: center;
-    padding: auto;
+    margin: auto;
     padding-top: 50px;
     font-family: Arial; 
     text-shadow: 1px 1px 1px black;
@@ -31,8 +34,11 @@ h2{
     font-weight: bold
 }
 p{
-    text-align: center;
+    width: 500px;
+    text-align: justify;
     padding-top: 34px;
+    margin: auto;
+    text
   
 
 }
