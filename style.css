@@ -7,22 +7,43 @@ body{
     color: #758C72;
     text-align: center;
     padding: 24px;
+    border-radius: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    
     
 }
 #page{
     box-sizing: border-box;
     width: 552px;
-    background-color: #2B3920;
+    background-color: #395B1D;
     height: 808px;
     margin: 105px auto;
     color: aliceblue;
+    border-radius: 12px;
 }
 h2{
     text-align: center;
+    padding: auto;
     padding-top: 50px;
+    font-family: Arial; 
+    text-shadow: 1px 1px 1px black;
+    font-size: 4em;
+    font-weight: bold
 }
 p{
     text-align: center;
-    margin: auto;
+    padding-top: 34px;
+  
 
+}
+
+
+footer{
+ color: #1A7133;
+ text-align: center;
+ padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
